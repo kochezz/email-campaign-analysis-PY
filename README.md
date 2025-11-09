@@ -499,7 +499,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🙏 Acknowledgments
 
 - Dataset provided for academic coursework
-- Built as part of [Course Name] Machine Learning module
+- Built as part of my Postgraduate Diploma in Data Science Machine Learning module
 - Thanks to instructors and peers for feedback
 - Inspired by best practices from scikit-learn documentation
 
